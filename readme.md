@@ -15,6 +15,8 @@
 家长端,教师端(uniApp)可独立打包成微信，支付宝，快手，抖音，百度等小程序，兼容全平台。
 
 
+- [![微信家长端](https://parent.phpframe.org/ "微信家长端")](https://raw.githubusercontent.com/xuey490/FssAdmin_school/refs/heads/main/parentQR.png "微信家长端")
+
 购买联系作者微信号： xdbyvibm6 
 
 
