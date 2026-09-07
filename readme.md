@@ -1,16 +1,22 @@
 # 智慧学校管理系统介绍
 
-本文介绍本工作区内的**智慧学校管理系统**（模块目录名 `schoole`）：面向教务、班主任、科任教师的**后台管理**，以及面向家长的**家长端**。两端共用同一套 PHP 接口（`/api/schoole/*`），后台挂在管理端 `web/` 的「学校管理」菜单下，家长端独立入口为 `/parent/login`。
+本文介绍本工作区内的**智慧学校管理系统**（模块目录名 `schoole`）：面向教务、班主任、科任教师的**后台管理**，以及面向家长的**家长端**。三端共用同一套 PHP 接口（`/api/schoole/*`），后台挂在管理端 `web/` 的「学校管理」菜单下，家长端独立入口为 `/parent/login`。
+
 
 后端演示：https://school.phpframe.org/      账号：admin 密码：123456
 
-家长端：https://school.phpframe.org/#/parent   账号：13712345678 密码：123456
+家长端(uniApp)：https://parent.phpframe.org/   账号：13712345678 密码：123456
+备用家长端(H5)：https://school.phpframe.org/#/parent
 
-教师端：https://teacher.phpframe.org/    账号：admin 密码：123456
+教师端(uniApp)：https://teacher.phpframe.org/    账号：admin 密码：123456
 
+
+家长端,教师端(uniApp)可独立打包成微信，支付宝，快手，抖音，百度等小程序，兼容全平台。
 
 
 购买联系作者微信号： xdbyvibm6 
+
+
 ---
 
 ## 1. 系统定位
