@@ -4,12 +4,12 @@
 
 ---
 
-后端演示：https://school.phpframe.org/      账号：admin 密码：123456
+- 后端演示：https://school.phpframe.org/      账号：admin 密码：123456
 
-家长端(uniApp)：https://parent.phpframe.org/   账号：13712345678 密码：123456
-备用家长端(H5)：https://school.phpframe.org/#/parent
+- 家长端(uniApp)：https://parent.phpframe.org/   账号：13712345678 密码：123456
+- 备用家长端(H5)：https://school.phpframe.org/#/parent
 
-教师端(uniApp)：https://teacher.phpframe.org/    账号：admin 密码：123456
+- 教师端(uniApp)：https://teacher.phpframe.org/    账号：admin 密码：123456
 
 
 家长端,教师端(uniApp)可独立打包成微信，支付宝，快手，抖音，百度等小程序，兼容全平台。
