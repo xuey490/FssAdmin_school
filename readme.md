@@ -7,7 +7,7 @@
 - 后端演示：https://school.phpframe.org/      账号：admin 密码：123456
 
 - 家长端(uniApp)：https://parent.phpframe.org/   账号：13712345678 密码：123456
-- 备用家长端(H5)：https://school.phpframe.org/#/parent
+- 备用家长端(H5)：https://school.phpframe.org/#/parent    账号：13712345678 密码：123456
 
 - 教师端(uniApp)：https://teacher.phpframe.org/    账号：admin 密码：123456
 
